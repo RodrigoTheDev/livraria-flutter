@@ -1,7 +1,7 @@
 class Item {
-  final String titulo;
-  final String descricao;
-  final String imgLink;
+  String titulo;
+  String descricao;
+  String imgLink;
 
   Item({required this.titulo, required this.descricao, required this.imgLink});
 

@@ -57,7 +57,6 @@ class _MyDialogState extends State<MyDialog> {
             String desc = _textEditingController2.text;
             String link = _textEditingController3.text;
 
-            print('foi hihi');
             // adicionar(titulo, desc);
             print(conteudoLista.length);
           }
